@@ -1,7 +1,7 @@
 Package.describe({
   name: 'forwarder:autoform-wizard-iron-router',
-  summary: 'Flow Router bindings for AutoForm Wizard.',
-  version: '0.1.0',
+  summary: 'Iron Router bindings for AutoForm Wizard.',
+  version: '0.1.2',
   git: 'https://github.com/forwarder/meteor-wizard-iron-router.git'
 });
 
